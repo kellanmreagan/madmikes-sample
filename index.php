@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Northeast Ohio Drag Racing, Auto Repair, Race Car Building</title>
+  <meta name="description" content="We do it all. Ohio Drag Racing Headquarters - Designing, Building, Re-build, Custom Dragsters, Junior Dragsters, NHRA & IHRA Certified chassis. Northeast Ohio auto repair - engine, transmission, rear end, exhaust, body, interior and more.">
+  <meta name="keywords" content="drag racing,nhra drag racing,drag racing video,drag racing videos,used race car parts,auto repair,auto repair questions,ohio,motorsports,jr motorsports,mad mikes motorsports,co2 dragster,co2 dragsters,dragster,dragsters,ohio auto repair,northeast ohio auto repair,strasburg auto repair,strasburg racing,strasburg drag racing,ohio racing,ohio drag racing,custom drag cars,drag car design,building,NHRA,IHRA,build chassis,motorcycle racing,motorcycle fabrication,chopper design,build motorcycle chopper,frame extensions">
+  <meta name="geo.region" content="US-OH">
+  <meta name="geo.placename" content="Strasburg">
+  <meta name="geo.position" content="40.622277;-81.435419">
+  <meta name="ICBM" content="40.622277, -81.435419">
+  <meta name="robots" content="index, follow, archive">
+  <link rel="icon" href="images/logo.gif">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@1,700&family=Oswald:wght@400;500;600;700&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/site.css">
+</head>
+<body class="home">
+  <a class="skip" href="#content">Skip to content</a>
+  <header class="site-header">
+    <div class="checker-strip" aria-hidden="true"></div>
+    <div class="header-inner">
+      <a class="brand" href="index.php" title="Mad Mike's Motorsports">
+        <img class="brand-logo" src="images/logo.gif" alt="Mad Mike's Motorsports">
+        <span class="wordmarks">
+          <img src="images/Mad-Mikes.png" alt="Mad Mike's">
+          <img src="images/motorsports.png" alt="Motorsports">
+        </span>
+      </a>
+      <div class="header-meta">
+        <a class="phone" href="tel:3308785351" title="Call Today!">330-878-5351</a>
+        <p class="addr">7736 Ft. Laurens Rd NW<br>Strasburg, OH 44680</p>
+      </div>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+    </div>
+    <nav id="site-nav" class="site-nav">
+      <ul>
+        <li><a href="index.php" title="Northeast Ohio Auto Repair, Racing Fabrication, Welding and Fabrication" class="is-active">HOME</a></li>
+        <li><a href="about.php" title="About Mad Mike's Motorsports">ABOUT US</a></li>
+        <li><a href="racing.php" title="Racing Products & Services">RACING</a></li>
+        <li><a href="videos.php" title="Racing Videos">VIDEOS</a></li>
+        <li><a href="services.php" title="Our Services">AUTO SERVICES</a></li>
+        <li><a href="gallery.php" title="Photo Gallery">GALLERY</a></li>
+        <li><a href="contact.php" title="Request a Quote">CONTACT US</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section class="hero" id="content">
+    <div class="hero-copy">
+      <p class="eyebrow">Serving Northeast Ohio</p>
+      <h1>Ohio drag racing headquarters</h1>
+      <p class="lede">The premiere destination in Ohio for all of your racing fabrication needs. We also offer full service automotive repair &amp; general welding and fabrication services.</p>
+      <div class="hero-actions">
+        <a class="btn" href="racing.php">Racing</a>
+        <a class="btn ghost" href="services.php">Auto Services</a>
+      </div>
+    </div>
+  </section>
+  <div class="home-grid">
+    <section class="panel" title="We do it all!">
+      <h2>We do it all</h2>
+      <ul class="fab-list">
+        <li>Custom Chassis</li>
+        <li>Prostreet Back Halfs</li>
+        <li>Brakes &amp; Suspension</li>
+        <li>Chassis Updates and Repairs</li>
+        <li>Full Sheet Metal Shop</li>
+        <li>Custom Fitted Lexan Windows mr-10</li>
+        <li>Custom Headers</li>
+        <li>NOS Installed Plates and Foggers</li>
+        <li>Promod 1 Wheel Wheelie Bars</li>
+        <li>We Handle Any Racecar Need and Repairs</li>
+      </ul>
+      <p class="more">And much more! Click <a href="services.php">here</a> for a complete list of all of the services we offer.</p>
+    </section>
+    <aside class="panel badge-card">
+      <img src="images/NHRA2.png" alt="NHRA">
+      <p>We build full-tube chassis to NHRA and IHRA specifications.</p>
+      <a class="btn" href="contact.php">Request a Quote</a>
+    </aside>
+  </div>
+  <footer class="site-footer">
+    <div class="checker-strip thick" aria-hidden="true"></div>
+    <div class="footer-inner">
+      <p class="footer-url">www.madmikesmotorsports.com</p>
+      <nav class="footer-nav">
+      <a href="index.php">HOME</a>
+      <a href="about.php">ABOUT US</a>
+      <a href="racing.php">RACING</a>
+      <a href="videos.php">VIDEOS</a>
+      <a href="services.php">AUTO SERVICES</a>
+      <a href="gallery.php">GALLERY</a>
+      <a href="contact.php">CONTACT US</a>
+      </nav>
+      <p class="copy">&copy; 2010 Mad Mike’s Motorsports. All Rights Reserved. &nbsp; Web Design by <a href="http://www.maxwellpcconsulting.com">Maxwell PC Consulting, LLC</a></p>
+    </div>
+    <p class="cities">Call (330) 874-5351 for affordable Auto Repair & Race Car Fabrication in Northeast OH area near the following cities: Baltic OH, Barnhill Oh, Barrs Mills Oh, Beartown Oh, Bernice Oh, Blackband Oh, Bolivar Oh, Booth Oh, Brightwood Oh, Coalport Oh, Columbia Oh, Dennison Oh, Dover Oh, Dundee Oh, Eastport Oh, Fiat Oh, Gilmore Oh, Glasgow Oh, Gnadenhutten Oh, Goshen Oh, Johnston Oh, Joyce Oh, Lock Seventeen Oh, Loudon Oh, Midvale Oh, Mineral City Oh, Mizers Oh, New Cumberland Oh, New Philadelphia Oh, Newcomerstown Oh, Newport Oh, Parral Oh, Peoli Oh, Port Washington Oh, Postboy Oh, Ragersville Oh, Riverside Park Oh, Roanoake Oh, Rock Oh, Rockford Oh, Roswell Oh, Sandyville Oh, Schoenbrunn Oh, Shanesville Oh, Somerdale Oh, South Side Oh, Stillwater Oh, Stone Creek Oh, Strasburg Oh, Sugarcreek Oh, Tuscarawas Oh, Uhrichsville Oh, Wainwright Oh, West Chester Oh, Winfield Oh, Winklepleck Oh, Grove Oh, Wolf Oh, Yorktown Oh, Zoar Oh, Zoarville Oh, Alliance Oh, Amherst Oh, Heights Oh, Aultman Oh, Avondale Oh, Banker Heights Oh, Battlesburg Oh, Beach City Oh, Beechwood Oh, Belfort Oh, Bolton Oh, Brewster Oh, Cairo Oh, Camp Creek Oh, Canal Fulton Oh, Canton Oh, Canton Road Oh, Charity Rotch Oh, Clearview Oh, Columbia Oh, Crossroads Oh, Crystal Springs Oh, East Canton Oh, East Greenville Oh, East Sparta Oh, Edgefield Oh, Elms Acres Oh, Elton Oh, Fairhope Oh, Freeburg Oh, Gambrinus Oh, Goodland Acres Oh, Greentown Oh, Greenwood Acres Oh, Harmon Oh, Harrisburg Oh, Hartville Oh, Hillcrest Oh, Hills and Dales Oh, Howenstine Oh, Justus Oh, Kendall Heights Oh, Lake Cable Oh, Lake Slagle Oh, Lawndale Oh, Lexington Oh, Limaville Oh, Louisville Oh, Magnolia Oh, Mapleton Oh, Marlboro Oh, Massillon Oh, Maximo Oh, Mayflower Village Oh, McDonaldsville Oh, Meyers Lake Oh, Middlebranch Oh, Minerva Oh, Moffitt Heights Oh, Mount Pleasant Oh, Mount Union Oh, Myers Oh, Navarre Oh, New Baltimore Oh, New England Oh, New Franklin Oh, Newman Oh, North Brewster Oh, North Canton Oh, North Industry Oh, North Lawrence Oh, Oak Ridge Oh, Paris Oh, Perry Heights Oh, Pigeon Run Oh, Pleasant View Oh, Reedurban Oh, Richville Oh, Robertsville Oh, Rockville Oh, Sippo Oh, Sippo Heights Oh, Smoketown Oh, Stanwood Oh, Uniontown Oh, Urban Hill Oh, Waco Oh, Walnut Hills Oh, Waynesburg Oh, West Brookfield Oh, West Park Oh, Westarado Oh, Whipple Heights Oh, Wilmot Oh,</p>
+  </footer>
+  <script src="js/site.js"></script>
+</body>
+</html>

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mad Mike's Photo Gallery</title>
+  <meta name="description" content="Photo gallery of custom race cars, chassis work, and shop projects from Mad Mike's Motorsports in Strasburg, Ohio.">
+  <meta name="keywords" content="photo gallery,race cars,drag racing,mad mikes motorsports,strasburg ohio">
+  <meta name="geo.region" content="US-OH">
+  <meta name="geo.placename" content="Strasburg">
+  <meta name="geo.position" content="40.622277;-81.435419">
+  <meta name="ICBM" content="40.622277, -81.435419">
+  <meta name="robots" content="index, follow, archive">
+  <link rel="icon" href="images/logo.gif">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@1,700&family=Oswald:wght@400;500;600;700&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/site.css">
+</head>
+<body class="">
+  <a class="skip" href="#content">Skip to content</a>
+  <header class="site-header">
+    <div class="checker-strip" aria-hidden="true"></div>
+    <div class="header-inner">
+      <a class="brand" href="index.php" title="Mad Mike's Motorsports">
+        <img class="brand-logo" src="images/logo.gif" alt="Mad Mike's Motorsports">
+        <span class="wordmarks">
+          <img src="images/Mad-Mikes.png" alt="Mad Mike's">
+          <img src="images/motorsports.png" alt="Motorsports">
+        </span>
+      </a>
+      <div class="header-meta">
+        <a class="phone" href="tel:3308785351" title="Call Today!">330-878-5351</a>
+        <p class="addr">7736 Ft. Laurens Rd NW<br>Strasburg, OH 44680</p>
+      </div>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+    </div>
+    <nav id="site-nav" class="site-nav">
+      <ul>
+        <li><a href="index.php" title="Northeast Ohio Auto Repair, Racing Fabrication, Welding and Fabrication">HOME</a></li>
+        <li><a href="about.php" title="About Mad Mike's Motorsports">ABOUT US</a></li>
+        <li><a href="racing.php" title="Racing Products & Services">RACING</a></li>
+        <li><a href="videos.php" title="Racing Videos">VIDEOS</a></li>
+        <li><a href="services.php" title="Our Services">AUTO SERVICES</a></li>
+        <li><a href="gallery.php" title="Photo Gallery" class="is-active">GALLERY</a></li>
+        <li><a href="contact.php" title="Request a Quote">CONTACT US</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main id="content" class="page">
+    <div class="page-title">
+      <h1>Photo Gallery</h1>
+    </div>
+    <div class="gallery-grid">
+      <a data-lightbox href="data/images1/2.jpg" title="2"><img src="data/thumbnails1/2.jpg" alt="2"></a>
+      <a data-lightbox href="data/images1/3.jpg" title="3"><img src="data/thumbnails1/3.jpg" alt="3"></a>
+      <a data-lightbox href="data/images1/4.jpg" title="4"><img src="data/thumbnails1/4.jpg" alt="4"></a>
+      <a data-lightbox href="data/images1/5.jpg" title="5"><img src="data/thumbnails1/5.jpg" alt="5"></a>
+      <a data-lightbox href="data/images1/5_0.jpg" title="5_0"><img src="data/thumbnails1/5_0.jpg" alt="5_0"></a>
+      <a data-lightbox href="data/images1/6.jpg" title="6"><img src="data/thumbnails1/6.jpg" alt="6"></a>
+      <a data-lightbox href="data/images1/7.jpg" title="7"><img src="data/thumbnails1/7.jpg" alt="7"></a>
+      <a data-lightbox href="data/images1/008.jpg" title="008"><img src="data/thumbnails1/008.jpg" alt="008"></a>
+      <a data-lightbox href="data/images1/8.jpg" title="8"><img src="data/thumbnails1/8.jpg" alt="8"></a>
+      <a data-lightbox href="data/images1/009.jpg" title="009"><img src="data/thumbnails1/009.jpg" alt="009"></a>
+      <a data-lightbox href="data/images1/9.jpg" title="9"><img src="data/thumbnails1/9.jpg" alt="9"></a>
+      <a data-lightbox href="data/images1/010.jpg" title="010"><img src="data/thumbnails1/010.jpg" alt="010"></a>
+      <a data-lightbox href="data/images1/10.jpg" title="10"><img src="data/thumbnails1/10.jpg" alt="10"></a>
+      <a data-lightbox href="data/images1/10_0.jpg" title="10_0"><img src="data/thumbnails1/10_0.jpg" alt="10_0"></a>
+      <a data-lightbox href="data/images1/011.jpg" title="011"><img src="data/thumbnails1/011.jpg" alt="011"></a>
+      <a data-lightbox href="data/images1/12.jpg" title="12"><img src="data/thumbnails1/12.jpg" alt="12"></a>
+      <a data-lightbox href="data/images1/12_0.jpg" title="12_0"><img src="data/thumbnails1/12_0.jpg" alt="12_0"></a>
+      <a data-lightbox href="data/images1/023.jpg" title="023"><img src="data/thumbnails1/023.jpg" alt="023"></a>
+      <a data-lightbox href="data/images1/28.jpg" title="28"><img src="data/thumbnails1/28.jpg" alt="28"></a>
+      <a data-lightbox href="data/images1/155.jpg" title="155"><img src="data/thumbnails1/155.jpg" alt="155"></a>
+      <a data-lightbox href="data/images1/156.jpg" title="156"><img src="data/thumbnails1/156.jpg" alt="156"></a>
+      <a data-lightbox href="data/images1/275.jpg" title="275"><img src="data/thumbnails1/275.jpg" alt="275"></a>
+      <a data-lightbox href="data/images1/276.jpg" title="276"><img src="data/thumbnails1/276.jpg" alt="276"></a>
+      <a data-lightbox href="data/images1/277.jpg" title="277"><img src="data/thumbnails1/277.jpg" alt="277"></a>
+      <a data-lightbox href="data/images1/278.jpg" title="278"><img src="data/thumbnails1/278.jpg" alt="278"></a>
+      <a data-lightbox href="data/images1/361.jpg" title="361"><img src="data/thumbnails1/361.jpg" alt="361"></a>
+      <a data-lightbox href="data/images1/363.jpg" title="363"><img src="data/thumbnails1/363.jpg" alt="363"></a>
+      <a data-lightbox href="data/images1/364.jpg" title="364"><img src="data/thumbnails1/364.jpg" alt="364"></a>
+      <a data-lightbox href="data/images1/365.jpg" title="365"><img src="data/thumbnails1/365.jpg" alt="365"></a>
+      <a data-lightbox href="data/images1/371.jpg" title="371"><img src="data/thumbnails1/371.jpg" alt="371"></a>
+      <a data-lightbox href="data/images1/373.jpg" title="373"><img src="data/thumbnails1/373.jpg" alt="373"></a>
+      <a data-lightbox href="data/images1/378.jpg" title="378"><img src="data/thumbnails1/378.jpg" alt="378"></a>
+      <a data-lightbox href="data/images1/472.jpg" title="472"><img src="data/thumbnails1/472.jpg" alt="472"></a>
+      <a data-lightbox href="data/images1/473.jpg" title="473"><img src="data/thumbnails1/473.jpg" alt="473"></a>
+      <a data-lightbox href="data/images1/479.jpg" title="479"><img src="data/thumbnails1/479.jpg" alt="479"></a>
+      <a data-lightbox href="data/images1/480.jpg" title="480"><img src="data/thumbnails1/480.jpg" alt="480"></a>
+      <a data-lightbox href="data/images1/481.jpg" title="481"><img src="data/thumbnails1/481.jpg" alt="481"></a>
+      <a data-lightbox href="data/images1/482.jpg" title="482"><img src="data/thumbnails1/482.jpg" alt="482"></a>
+      <a data-lightbox href="data/images1/483.jpg" title="483"><img src="data/thumbnails1/483.jpg" alt="483"></a>
+      <a data-lightbox href="data/images1/490.jpg" title="490"><img src="data/thumbnails1/490.jpg" alt="490"></a>
+      <a data-lightbox href="data/images1/491.jpg" title="491"><img src="data/thumbnails1/491.jpg" alt="491"></a>
+      <a data-lightbox href="data/images1/494.jpg" title="494"><img src="data/thumbnails1/494.jpg" alt="494"></a>
+      <a data-lightbox href="data/images1/625.jpg" title="625"><img src="data/thumbnails1/625.jpg" alt="625"></a>
+      <a data-lightbox href="data/images1/638.jpg" title="638"><img src="data/thumbnails1/638.jpg" alt="638"></a>
+      <a data-lightbox href="data/images1/643.jpg" title="643"><img src="data/thumbnails1/643.jpg" alt="643"></a>
+      <a data-lightbox href="data/images1/644.jpg" title="644"><img src="data/thumbnails1/644.jpg" alt="644"></a>
+      <a data-lightbox href="data/images1/fg_91.jpg" title="fg_91"><img src="data/thumbnails1/fg_91.jpg" alt="fg_91"></a>
+      <a data-lightbox href="data/images1/fg_92.jpg" title="fg_92"><img src="data/thumbnails1/fg_92.jpg" alt="fg_92"></a>
+      <a data-lightbox href="data/images1/fg_93.jpg" title="fg_93"><img src="data/thumbnails1/fg_93.jpg" alt="fg_93"></a>
+      <a data-lightbox href="data/images1/fg_94.jpg" title="fg_94"><img src="data/thumbnails1/fg_94.jpg" alt="fg_94"></a>
+      <a data-lightbox href="data/images1/fg_95.jpg" title="fg_95"><img src="data/thumbnails1/fg_95.jpg" alt="fg_95"></a>
+      <a data-lightbox href="data/images1/fg_96.jpg" title="fg_96"><img src="data/thumbnails1/fg_96.jpg" alt="fg_96"></a>
+      <a data-lightbox href="data/images1/fg_97.jpg" title="fg_97"><img src="data/thumbnails1/fg_97.jpg" alt="fg_97"></a>
+      <a data-lightbox href="data/images1/fg_112.jpg" title="fg_112"><img src="data/thumbnails1/fg_112.jpg" alt="fg_112"></a>
+      <a data-lightbox href="data/images1/fg_121.jpg" title="fg_121"><img src="data/thumbnails1/fg_121.jpg" alt="fg_121"></a>
+      <a data-lightbox href="data/images1/fg_122.jpg" title="fg_122"><img src="data/thumbnails1/fg_122.jpg" alt="fg_122"></a>
+      <a data-lightbox href="data/images1/fg_131.jpg" title="fg_131"><img src="data/thumbnails1/fg_131.jpg" alt="fg_131"></a>
+      <a data-lightbox href="data/images1/fg_132.jpg" title="fg_132"><img src="data/thumbnails1/fg_132.jpg" alt="fg_132"></a>
+      <a data-lightbox href="data/images1/fg_133.jpg" title="fg_133"><img src="data/thumbnails1/fg_133.jpg" alt="fg_133"></a>
+      <a data-lightbox href="data/images1/fg_139.jpg" title="fg_139"><img src="data/thumbnails1/fg_139.jpg" alt="fg_139"></a>
+      <a data-lightbox href="data/images1/fg_140.jpg" title="fg_140"><img src="data/thumbnails1/fg_140.jpg" alt="fg_140"></a>
+      <a data-lightbox href="data/images1/fg_141.jpg" title="fg_141"><img src="data/thumbnails1/fg_141.jpg" alt="fg_141"></a>
+      <a data-lightbox href="data/images1/fg_142.jpg" title="fg_142"><img src="data/thumbnails1/fg_142.jpg" alt="fg_142"></a>
+      <a data-lightbox href="data/images1/fg_144.jpg" title="fg_144"><img src="data/thumbnails1/fg_144.jpg" alt="fg_144"></a>
+      <a data-lightbox href="data/images1/fg_145.jpg" title="fg_145"><img src="data/thumbnails1/fg_145.jpg" alt="fg_145"></a>
+      <a data-lightbox href="data/images1/fg_218.jpg" title="fg_218"><img src="data/thumbnails1/fg_218.jpg" alt="fg_218"></a>
+      <a data-lightbox href="data/images1/fg_220.jpg" title="fg_220"><img src="data/thumbnails1/fg_220.jpg" alt="fg_220"></a>
+      <a data-lightbox href="data/images1/fg_221.jpg" title="fg_221"><img src="data/thumbnails1/fg_221.jpg" alt="fg_221"></a>
+      <a data-lightbox href="data/images1/fg_222.jpg" title="fg_222"><img src="data/thumbnails1/fg_222.jpg" alt="fg_222"></a>
+      <a data-lightbox href="data/images1/fg_223.jpg" title="fg_223"><img src="data/thumbnails1/fg_223.jpg" alt="fg_223"></a>
+      <a data-lightbox href="data/images1/pict0054.jpg" title="pict0054"><img src="data/thumbnails1/pict0054.jpg" alt="pict0054"></a>
+      <a data-lightbox href="data/images1/pict0058.jpg" title="pict0058"><img src="data/thumbnails1/pict0058.jpg" alt="pict0058"></a>
+      <a data-lightbox href="data/images1/1.jpg" title="1"><img src="data/thumbnails1/1.jpg" alt="1"></a>
+      <a data-lightbox href="data/images1/2_0.jpg" title="2_0"><img src="data/thumbnails1/2_0.jpg" alt="2_0"></a>
+    </div>
+  </main>
+  <footer class="site-footer">
+    <div class="checker-strip thick" aria-hidden="true"></div>
+    <div class="footer-inner">
+      <p class="footer-url">www.madmikesmotorsports.com</p>
+      <nav class="footer-nav">
+      <a href="index.php">HOME</a>
+      <a href="about.php">ABOUT US</a>
+      <a href="racing.php">RACING</a>
+      <a href="videos.php">VIDEOS</a>
+      <a href="services.php">AUTO SERVICES</a>
+      <a href="gallery.php">GALLERY</a>
+      <a href="contact.php">CONTACT US</a>
+      </nav>
+      <p class="copy">&copy; 2010 Mad Mike’s Motorsports. All Rights Reserved. &nbsp; Web Design by <a href="http://www.maxwellpcconsulting.com">Maxwell PC Consulting, LLC</a></p>
+    </div>
+    <p class="cities">Call (330) 874-5351 for affordable Auto Repair & Race Car Fabrication in Northeast OH area near the following cities: Baltic OH, Barnhill Oh, Barrs Mills Oh, Beartown Oh, Bernice Oh, Blackband Oh, Bolivar Oh, Booth Oh, Brightwood Oh, Coalport Oh, Columbia Oh, Dennison Oh, Dover Oh, Dundee Oh, Eastport Oh, Fiat Oh, Gilmore Oh, Glasgow Oh, Gnadenhutten Oh, Goshen Oh, Johnston Oh, Joyce Oh, Lock Seventeen Oh, Loudon Oh, Midvale Oh, Mineral City Oh, Mizers Oh, New Cumberland Oh, New Philadelphia Oh, Newcomerstown Oh, Newport Oh, Parral Oh, Peoli Oh, Port Washington Oh, Postboy Oh, Ragersville Oh, Riverside Park Oh, Roanoake Oh, Rock Oh, Rockford Oh, Roswell Oh, Sandyville Oh, Schoenbrunn Oh, Shanesville Oh, Somerdale Oh, South Side Oh, Stillwater Oh, Stone Creek Oh, Strasburg Oh, Sugarcreek Oh, Tuscarawas Oh, Uhrichsville Oh, Wainwright Oh, West Chester Oh, Winfield Oh, Winklepleck Oh, Grove Oh, Wolf Oh, Yorktown Oh, Zoar Oh, Zoarville Oh, Alliance Oh, Amherst Oh, Heights Oh, Aultman Oh, Avondale Oh, Banker Heights Oh, Battlesburg Oh, Beach City Oh, Beechwood Oh, Belfort Oh, Bolton Oh, Brewster Oh, Cairo Oh, Camp Creek Oh, Canal Fulton Oh, Canton Oh, Canton Road Oh, Charity Rotch Oh, Clearview Oh, Columbia Oh, Crossroads Oh, Crystal Springs Oh, East Canton Oh, East Greenville Oh, East Sparta Oh, Edgefield Oh, Elms Acres Oh, Elton Oh, Fairhope Oh, Freeburg Oh, Gambrinus Oh, Goodland Acres Oh, Greentown Oh, Greenwood Acres Oh, Harmon Oh, Harrisburg Oh, Hartville Oh, Hillcrest Oh, Hills and Dales Oh, Howenstine Oh, Justus Oh, Kendall Heights Oh, Lake Cable Oh, Lake Slagle Oh, Lawndale Oh, Lexington Oh, Limaville Oh, Louisville Oh, Magnolia Oh, Mapleton Oh, Marlboro Oh, Massillon Oh, Maximo Oh, Mayflower Village Oh, McDonaldsville Oh, Meyers Lake Oh, Middlebranch Oh, Minerva Oh, Moffitt Heights Oh, Mount Pleasant Oh, Mount Union Oh, Myers Oh, Navarre Oh, New Baltimore Oh, New England Oh, New Franklin Oh, Newman Oh, North Brewster Oh, North Canton Oh, North Industry Oh, North Lawrence Oh, Oak Ridge Oh, Paris Oh, Perry Heights Oh, Pigeon Run Oh, Pleasant View Oh, Reedurban Oh, Richville Oh, Robertsville Oh, Rockville Oh, Sippo Oh, Sippo Heights Oh, Smoketown Oh, Stanwood Oh, Uniontown Oh, Urban Hill Oh, Waco Oh, Walnut Hills Oh, Waynesburg Oh, West Brookfield Oh, West Park Oh, Westarado Oh, Whipple Heights Oh, Wilmot Oh,</p>
+  </footer>
+  <script src="js/site.js"></script>
+</body>
+</html>
